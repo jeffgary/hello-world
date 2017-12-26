@@ -1,2 +1,3 @@
 # hello-world
-repsoitory
+repository
+trying to learn to code
